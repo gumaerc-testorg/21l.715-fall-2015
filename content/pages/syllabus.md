@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This page contains the course syllabus, overview, meeting times, and
+  details about the grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8b357dae-4c95-388a-e09d-94c8bdca7a81
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
