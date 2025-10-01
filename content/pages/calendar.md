@@ -28,7 +28,7 @@ Introduction and preliminaries. What are media? What is a book?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-3
 {{< tdclose >}}{{< tdopen >}}
-In class: Introduction to book handling (half-class in [Special Collecions](https://libraries.mit.edu/archives/))
+In class: Introduction to book handling (half-class in {{% resource_link "38bddcd1-94dc-40c0-bdf0-cd13c824c42a" "Special Collecions" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -68,7 +68,7 @@ In class: Letters from the MIT Archives
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12–13
 {{< tdclose >}}{{< tdopen >}}
-In class: Letterlocking workshop with [Jana Dambrogio](http://www.janadambrogio.com/#intro)
+In class: Letterlocking workshop with {{% resource_link "3fde34ba-607e-414a-9fde-7b19ae07aab3" "Jana Dambrogio" %}}
 {{< tdclose >}}{{< tdopen >}}
 Session 13: Third of three position paper due-dates
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
