@@ -24,13 +24,13 @@ ASSIGNMENTS
 {{< tdclose >}}{{< tdopen >}}
 Introduction and preliminaries. What are media? What is a book?
 {{< tdclose >}}{{< tdopen >}}
-Spend 1 hour reading in a library to which you have never been before. ([Some advice on reading from MIT.](http://uaap.mit.edu/tutoring-support/study-tips/tooling-and-studying/tooling-and-studying-effective-reading-and-note-taking))
+Spend 1 hour reading in a library to which you have never been before. ({{% resource_link "f0d59b9a-9c05-4dfc-a00c-ccb644754e1b" "Some advice on reading from MIT." %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **1\. How to Read a Book**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-3
 {{< tdclose >}}{{< tdopen >}}
-In class: Introduction to book handling (half-class in [Special Collections](https://libraries.mit.edu/archives/))
+In class: Introduction to book handling (half-class in {{% resource_link "38bddcd1-94dc-40c0-bdf0-cd13c824c42a" "Special Collections" %}})
 {{< tdclose >}}{{< tdopen >}}
 Practice active and *quick* reading.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -49,7 +49,7 @@ Identify as many of the images in *Medium is the Message* as you can
 {{< tdclose >}}{{< tdopen >}}
 In class: Digital literature and legacy computing workshop
 {{< tdclose >}}{{< tdopen >}}
-Play [Zork](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork) and other narrative games
+Play {{% resource_link "6c45b3c5-b87e-43cb-91d9-eea718553a85" "Zork" %}} and other narrative games
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Position papers
@@ -64,7 +64,7 @@ A revision of either of the 2 position papers. This paper must show significant 
 
 The Special Collections assignment is a critical analysis of an object of your choice from MIT's library collections. Initial findings will be presented in class on Session 18. A blog post with accompanying research report will be due two days after Session 23.
 
-Example student projects can be found on the [21L.715 blog](https://21l715.wordpress.com/).
+Example student projects can be found on the {{% resource_link "de794b0c-da8c-45a1-8b9f-f1a7d6fd5400" "21L.715 blog" %}}.
 
 ## Final Examination
 
